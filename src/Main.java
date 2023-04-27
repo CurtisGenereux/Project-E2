@@ -1,7 +1,5 @@
-
 public class Main {
 	
-	
-	// deez nuts
+	// bruh
 
 }

@@ -1,2 +1,2 @@
 # Project-E2
-minecraft
+2d terraria like terrain generator.

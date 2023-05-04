@@ -6,6 +6,8 @@ public class Block {
 	
 	// 17 digits
 	public Block(double valueForBlockGeneration) {
-		
+		if (valueForBlockGeneration > 0.5) {
+			
+		}
 	}
 }

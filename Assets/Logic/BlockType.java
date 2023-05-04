@@ -6,7 +6,9 @@ import javax.imageio.ImageIO;
 
 public enum BlockType {
 	Air(null),
-	Grass(null);
+	Grass(null),
+	Stone(null);
+	
 	
 	Image texture;
 	
@@ -17,6 +19,5 @@ public enum BlockType {
 			System.out.println();
 		}
 	}
-	
-	// yo
+
 }

@@ -7,7 +7,8 @@ import javax.imageio.ImageIO;
 public enum BlockType {
 	Air(null),
 	Grass(null),
-	Stone(null);
+	Stone(null),
+	Deez(null);
 	
 	
 	Image texture;
